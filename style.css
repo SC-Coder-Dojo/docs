@@ -2,6 +2,7 @@
 * {
     
     font-family: 'Open Sans';
+    font-size: 1.0em;
 
 }
 body {
@@ -9,4 +10,17 @@ body {
     background-color: #34495e;
     color: #FFF;
  
+}
+
+a {
+    color: #fff;
+    text-decoration: underline;
+}
+a:hover {
+    transition: 0.2s;
+    -o-transition: 0.2s;
+    -moz-transition: 0.2s;
+    -ms-transition: 0.2s;
+    -webkit-transition: 0.2s;
+    font-size: 1.1em;
 }
