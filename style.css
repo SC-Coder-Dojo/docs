@@ -1,26 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Open+Sans');
-* {
-    
-    font-family: 'Open Sans';
-    font-size: 1.0em;
-
-}
-body {
- 
-    background-color: #34495e;
-    color: #FFF;
- 
-}
-
-a {
-    color: #fff;
-    text-decoration: underline;
-}
-a:hover {
-    transition: 0.2s;
-    -o-transition: 0.2s;
-    -moz-transition: 0.2s;
-    -ms-transition: 0.2s;
-    -webkit-transition: 0.2s;
-    font-size: 1.1em;
-}
+background:
+linear-gradient(135deg, #708090 22px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #d9ecff 67px, #d9ecff 69px, transparent 69px),
+linear-gradient(225deg, #708090 22px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #d9ecff 67px, #d9ecff 69px, transparent 69px)0 64px;
+background-color:#708090;
+background-size: 64px 128px
